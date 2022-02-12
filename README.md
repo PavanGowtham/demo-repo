@@ -1,3 +1,3 @@
 # demo-repo
 
-This is demo.
+This is demo!
